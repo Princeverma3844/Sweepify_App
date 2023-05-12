@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029067177374",
+    "firebase_url": "https://sweepify-30157-default-rtdb.firebaseio.com",
+    "project_id": "sweepify-30157",
+    "storage_bucket": "sweepify-30157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029067177374:android:262f00c58f873f41d22a8f",
+        "android_client_info": {
+          "package_name": "com.mycompany.sweepify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029067177374-am8qiead8q6ls8t3euejrt3qo0928t97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.sweepify",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1029067177374-tu7gm9uuki9ibtr7pptr26oi47molqgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3qF8rjAKw9cpPQT9_32A4QmvbOpi0gOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029067177374-tu7gm9uuki9ibtr7pptr26oi47molqgl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029067177374-80dhunjskkh9kdbf2dpv7htmle7d9bu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sweepify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
